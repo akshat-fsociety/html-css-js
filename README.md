@@ -1,2 +1,2 @@
 # html-css-js
-Practicing
+Practicing/skill brushing
